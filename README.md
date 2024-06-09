@@ -1,3 +1,4 @@
+## Comparative Analysis of Multiclass Classification Models Using NLP for COVID-19 Tweet Sentiment Analysis
 ### Overview
 
 This project presents an empirical study on sentiment analysis of COVID-19 tweets during the pandemic. Various Machine Learning (ML) and Deep Learning (DL) techniques are utilized to analyze and predict the sentiments expressed in tweets.
