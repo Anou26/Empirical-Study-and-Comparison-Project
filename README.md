@@ -31,9 +31,3 @@ This project presents an empirical study on sentiment analysis of COVID-19 tweet
 ### Conclusion
 
 The study successfully analyzed sentiments during the COVID-19 pandemic and provided valuable insights. Future work could focus on multilingual tweets and enhancing model accuracies.
-
-### References
-
-1. Tran, D., Toulis, P., & Airoldi, E. M. "Stochastic Gradient Descent Methods for Estimation with Large Data Sets".
-2. Chen, T., & Guestrin, C. "XGBoost: A Scalable Tree Boosting System".
-3. Su, Y., Huang, Y., & Kuo, C.-C. J. "Efficient Text Classification Using Tree-Structured Multi-Linear Principal Component Analysis".
